@@ -11,10 +11,13 @@
 The images included in this repository have been displayed below for your convenience:
 
 1. Phong Shading
-![Phong diffuse shading applied](images/Phong.png)
+
+    ![Phong diffuse shading applied](images/Phong.png)
 
 2. Shadows
-![Shadows applied](images/Shadows.png)
+
+    ![Shadows applied](images/Shadows.png)
 
 3. Reflections
-![Reflections applied](images/Reflection.png)
+
+    ![Reflections applied](images/Reflection.png)
